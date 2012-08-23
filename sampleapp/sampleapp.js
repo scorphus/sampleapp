@@ -16,7 +16,7 @@ steal(
       console.log('Link clicked!');
       $().toastmessage('showSuccessToast', "Steal docs link was clicked!");
     });
-    $('#stealdoc').qtip();
+    $('#stealdoc').qtip(); //BANG!
   }
 );
 
