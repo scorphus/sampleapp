@@ -1,0 +1,6 @@
+[submodule "can"]
+	path = can
+	url = https://github.com/jupiterjs/canjs.git
+[submodule "steal"]
+	path = steal
+	url = https://github.com/jupiterjs/steal.git
